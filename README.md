@@ -2,7 +2,7 @@
 
 
 # Мое резюме:
- - [Download PDF (dkob.ru)](https://dkob.ru/wp-content/uploads/2023/04/resume.pdf)
+ - [Download PDF (dkob.ru)](https://dkob.ru/wp-content/uploads/2023/09/resume.pdf)
 
 
 # Проекты:
